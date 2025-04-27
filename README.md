@@ -21,7 +21,7 @@
 | Web Development | Game Development | Programming |
 | :-------------: | :---------------: | :---------: |
 | Flask (Python) | Unity (C#) | Python |
-| ASP.NET Core (C#) | Unreal Engine (basic) | C# |
+| ASP.NET Core (C#) | Unreal Engine (basic) | C#, CPP |
 | Bootstrap, HTML/CSS | - | SQL Server |
 
 ---

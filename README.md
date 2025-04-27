@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=200&section=header&text=Alyas%20👾&fontSize=50&fontColor=000000" alt="banner" />
+  <img src="https://nakhlmarket.com/wp-content/uploads/2021/01/ActionFigure-Cyberpunk-2077-Johnny-Silverhand.jpg" alt="Johnny Silverhand" width="400"/>
 </p>
 
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>

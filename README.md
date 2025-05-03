@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,20,30)&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&customColorList=0,2,20,30)&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
 </p>
 
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>

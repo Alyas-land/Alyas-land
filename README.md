@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=30,60,190,45&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
 </p>-->
 
-![Alyas Banner](alyas_glitch.gif)
+![Alyas Banner](alyas_glitch_banner_1000x300.gif)
 
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>
 

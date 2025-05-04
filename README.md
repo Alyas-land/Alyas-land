@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&customColorList=0,2,20,30)&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&customColorList=30,60,190,45&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
 </p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
-
+پ
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>
 
 ---

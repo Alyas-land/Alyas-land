@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&customColorList=0,2,20,30)&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>
 

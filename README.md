@@ -4,7 +4,7 @@
 
 
 
-![Alyas Banner](alyas_glitch_banner_1000x300.gif)
+![Alyas Banner](img/alyas_glitch_banner_1000x300.gif)
 
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>
 

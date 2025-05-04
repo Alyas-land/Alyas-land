@@ -4,8 +4,6 @@
 
 ![Alyas Banner](https://github.com/alyas-land/alyas-land/alyas_glitch.gif?raw=true)
 
-alyas_glitch_banner (1).gif
-
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>
 
 ---

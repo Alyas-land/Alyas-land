@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=30,60,190,45&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
 </p>
 
-![Alyas Banner](https://github.com/alyas-land/alyas-land/alyas_glitch_banner (1).gif?raw=true)
+![Alyas Banner](https://github.com/alyas-land/alyas-land/alyas_glitch.gif?raw=true)
 
 alyas_glitch_banner (1).gif
 

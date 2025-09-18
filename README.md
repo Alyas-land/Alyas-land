@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year Computer Engineering Student  
+- 🎓 Computer Engineering
 - 🌐 Full-stack Web Developer (Flask & ASP.NET Core)  
 - 🔬 Scientific Research Developer – University of Isfahan Projects  
 - 🎮 Indie Game Developer (2D & 3D)  

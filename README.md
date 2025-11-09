@@ -1,7 +1,7 @@
 <!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=30,60,190,45&text=Alyas&reversal=false&animation=twinkling&strokeWidth=1&section=header" alt="Alyas" width="400"/>
 </p>-->
-
+![](https://komarev.com/ghpvc/?username=alyas-land&color=blueviolet)
 ![Alyas Banner](img/alyas_glitch.gif)
 
 <h1 align="center">👋 Welcome to my Cyber World 👾</h1>
@@ -16,12 +16,6 @@
 - 🎮 Indie Game Developer (2D & 3D)  
 - 🧩 Passionate about building interactive, immersive experiences  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyas-land&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyas-land&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyas-land&show_icons=true&theme=tokyonight)
 
 
 ---

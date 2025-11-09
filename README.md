@@ -16,6 +16,11 @@
 - 🎮 Indie Game Developer (2D & 3D)  
 - 🧩 Passionate about building interactive, immersive experiences  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliMashayekhi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMashayekhi&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
 ---
 
 ### 🔥 Skills & Tools

@@ -21,6 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyas-land&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyas-land&show_icons=true&theme=tokyonight)
+
+
 ---
 
 ### 🔥 Skills & Tools

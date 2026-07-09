@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-E34F26?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spine%20Pro-E12020?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spine%20Pro%202D%20skeletal%20animation%20for%20games-009aed?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
